@@ -11,6 +11,12 @@ ProcessSchedule
 
 Java Netbeans
 
+截图
+-----------
+
+![](https://github.com/fanzhidongyzby/ProcessSchedule/blob/master/printScr/1.png)
+![](https://github.com/fanzhidongyzby/ProcessSchedule/blob/master/printScr/3.png)
+
 详细说明
 -----------
 
